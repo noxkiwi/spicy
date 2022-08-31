@@ -1,4 +1,4 @@
-# # Hi there 👋
+# # Hi there
 We are evolving...
 
 ### Introduction
@@ -18,3 +18,5 @@ We are evolving...
 
 ### Issue Reporting
 We are evolving...
+
+### Have a 🥝

@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-=======
 title = "The 🥝 Blog"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
@@ -39,4 +34,3 @@ recent_posts_number = 6
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/noxkiwi"
->>>>>>> 40010a5

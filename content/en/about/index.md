@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "I'm slightly frustrated. Please be forgiving."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+featured_image: '/images/background.jpg'
 menu:
   main:
     weight: 1

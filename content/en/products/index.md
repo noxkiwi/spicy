@@ -1,8 +1,12 @@
 ---
 title: "Products"
-
 description: "I did some work before. It was awful."
+
 featured_image: '/images/background.jpg'
+
+menu:
+  main:
+    weight: 1
 ---
 
 ### [noxkiwi\value](https://value.nox.kiwi/)
